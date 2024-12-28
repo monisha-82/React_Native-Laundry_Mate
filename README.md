@@ -2,4 +2,4 @@
   <h3 align="center">React Native Laundry Mate App</h3>
 </div>
 
-![Demo Image](assets/demo.png)
+<img src="assets/demo.png" width="360" height = "760">
